@@ -1,3 +1,7 @@
+---
+editor: visual
+---
+
 # Authorship
 
 ::: callout-important

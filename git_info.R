@@ -3,3 +3,4 @@
 library(usethis)
 usethis::git_sitrep()
 
+## YAML file puts each chapter/pages together!
