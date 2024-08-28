@@ -1,4 +1,4 @@
-# group-handbook-template
+# handbook-template
 
 <!-- badges: start -->
 
