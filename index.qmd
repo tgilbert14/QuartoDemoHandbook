@@ -1,6 +1,7 @@
 ---
 editor: visual
 ---
+
 <!-- NOTE: do not re-name this file!  It has to be called index.qmd -->
 
 # Welcome! {.unnumbered}

@@ -1,0 +1,4 @@
+## title of new chapter
+
+hi!
+make sure you go here first [here](code-of-conduct.qmd)
